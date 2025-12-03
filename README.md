@@ -19,8 +19,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Repos](https://img.shields.io/github/public-repos/007-bg?style=for-the-badge&logo=github&color=092E20)
-![Commits](https://img.shields.io/github/commit-activity/y/007-bg?style=for-the-badge&logo=github&color=512BD4)
+[![My Repositories](https://img.shields.io/badge/Repositories-See_My_Work-239120?style=for-the-badge&logo=github)](https://github.com/007-bg?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/007-bg?style=for-the-badge&logo=github&color=512BD4)](https://github.com/007-bg?tab=followers)
 ---
 
 ## 📈 Activity Graph
