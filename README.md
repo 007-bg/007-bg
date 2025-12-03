@@ -18,20 +18,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=007-bg&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats & Streaks
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=007-bg&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=007-bg&layout=compact&langs_count=8&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=007-bg&theme=radical&hide_border=true)
-
+## 📊 GitHub Stats
+![Repos](https://img.shields.io/github/public-repos/007-bg?style=for-the-badge&logo=github&color=092E20)
+![Commits](https://img.shields.io/github/commit-activity/y/007-bg?style=for-the-badge&logo=github&color=512BD4)
 ---
 
 ## 📈 Activity Graph
